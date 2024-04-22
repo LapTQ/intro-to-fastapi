@@ -1,0 +1,3 @@
+- https://sunscrapers.com/blog/python-async-programming-basics/
+- https://ioflood.com/blog/python-async/
+- https://stackoverflow.com/questions/63454072/multiprocessing-multithreading-gil
